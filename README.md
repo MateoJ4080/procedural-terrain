@@ -4,7 +4,7 @@ A procedural voxel terrain system built with Unity, C#, and Unity DOTS. Focused 
 
 <p align="center">
   <img src="media/first-chunks-loaded.gif" width="49%">
-  <img src="media/procedural-generation.gif" width="49%">
+  <img src="media/ingame-presentation.gif" width="49%">
 </p>
 
 > **Note:** Recorded in the Unity Editor. Standalone builds run much faster.
