@@ -1,4 +1,4 @@
-# Procedural Generation
+# Procedural Terrain
 
 A procedural voxel terrain system built with Unity, C#, and Unity DOTS. Focused on performance and scalable world generation.
 
@@ -7,10 +7,9 @@ A procedural voxel terrain system built with Unity, C#, and Unity DOTS. Focused 
   <img src="media/ingame-presentation.gif" width="49%">
 </p>
 
-## Features
+## Key features:
 
 - Unity DOTS / ECS
-- Procedural terrain generation
 - Chunk-based mesh generation
 - Multithreaded generation with Jobs + Burst
 - Runtime chunk loading/unloading
